@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CustomerDatabaseJUnit
+comment0.text=\r\n\ Class\ to\ test\ the\ CustomerDatabase\ Lab\ 12\r\n\r\n\ @author\ -\ Ana\ Posada\r\n\ @version\ -\ 1.0.0\ -\ October\ 2020\r\n
+comment1.params=
+comment1.target=void\ testConstructor()
+comment1.text=\r\n\ Test\ constructor\r\n
+comment2.params=
+comment2.target=void\ testReadFileAndCounts()
+comment2.text=\r\n\ Test\ read\ file\ and\ counts\r\n
+comment3.params=
+comment3.target=void\ testSearchNames()
+comment3.text=\r\n\ Test\ searchNames\r\n
+comment4.params=
+comment4.target=void\ testSearchEmailDomain()
+comment4.text=\r\n\ Test\ search\ for\ email\ domain\r\n
+comment5.params=
+comment5.target=void\ testGetAllCustomers()
+comment5.text=\r\n\ Test\ getDB\ -\ get\ list\ of\ all\ customers\r\n
+numComments=6

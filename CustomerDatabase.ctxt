@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CustomerDatabase
+comment1.params=
+comment1.target=CustomerDatabase()
+comment2.params=
+comment2.target=int\ getNumberCustomers()
+comment3.params=filename
+comment3.target=void\ readCustomerData(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
